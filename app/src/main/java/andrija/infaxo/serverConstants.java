@@ -1,0 +1,14 @@
+
+package andrija.infaxo;
+
+public enum serverConstants{
+
+    DEAFAULT,
+
+    LOGIN_REQUEST, LOGOUT_REQUEST, SEND_GAME_INVITE, GAME_INVITE_RECIEVED, ID_RECIEVED,
+
+    FRIEND_REQUEST_RECIEVED, SEND_FRIEND_REQUEST,
+
+    ERROR_MESSAGE;
+
+}

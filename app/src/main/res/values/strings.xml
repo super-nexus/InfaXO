@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Infa XO</string>
+    <string name="play_vs_bot_button_text">play against bot</string>
+    <string name="play_vs_friend_button_text">play against a friend</string>
+</resources>
